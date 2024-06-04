@@ -13,6 +13,11 @@ export const PEOPLE_URL = [
   '/person-2.png',
   '/person-3.png',
   '/person-4.png',
+
+  // '/travel_ui_ux/person-1.png',
+  // '/travel_ui_ux/person-2.png',
+  // '/travel_ui_ux/person-3.png',
+  // '/travel_ui_ux/person-4.png',
 ];
 
 // FEATURES SECTION
@@ -82,5 +87,11 @@ export const SOCIALS = {
     '/twitter.svg',
     '/youtube.svg',
     '/wordpress.svg',
+
+
+    // '/travel_ui_ux/instagram.svg',
+    // '/travel_ui_ux/twitter.svg',
+    // '/travel_ui_ux/youtube.svg',
+    // '/travel_ui_ux/wordpress.svg',
   ],
 };
